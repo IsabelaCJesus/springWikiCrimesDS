@@ -1,6 +1,6 @@
 package com.app.springWikiCrimesDS.Controller;
 
-import com.app.springWikiCrimesDS.service.RegionService;
+import com.app.springWikiCrimesDS.Service.RegionService;
 import com.app.springWikiCrimesDS.Entity.RegionData;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

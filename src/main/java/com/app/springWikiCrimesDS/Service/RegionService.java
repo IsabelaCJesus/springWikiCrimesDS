@@ -1,4 +1,4 @@
-package com.app.springWikiCrimesDS.service;
+package com.app.springWikiCrimesDS.Service;
 
 import com.app.springWikiCrimesDS.Entity.RegionData;
 import com.app.springWikiCrimesDS.Repository.RegionRepository;
@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
 import java.util.List;
-import java.util.Optional;
 
 @Service @Transactional @RequiredArgsConstructor
 
